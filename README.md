@@ -15,4 +15,4 @@
 
 
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=wwwkr)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=wwwkr&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
