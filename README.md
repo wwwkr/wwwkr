@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Android%20Developer&fontSize=50)
+
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?style=flat&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
