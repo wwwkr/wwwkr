@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wwwkr&layout=compact)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwkr&show_icons=true&theme=radical&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwwkr&show_icons=true&theme=radical&hide=issues,contribs&count_private=true)
 
 
 ![Anurag's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=wwwkr)
