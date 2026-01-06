@@ -11,11 +11,9 @@
 ![GitHub Stats](https://github-readme-stats-indol-omega-50.vercel.app/api?username=wwwkr&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=wwwkr)
+![GitHub Streak](https://github-readme-streak-stats-olive.vercel.app/?user=wwwkr)
 
 
 ![Trophy](https://github-profile-trophy.deno.dev/?username=wwwkr&rank=SSS,SS,S,AAA,AA,A,B,C)
 
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wwwkr&theme=react-dark)
-
