@@ -14,6 +14,6 @@
 ![GitHub Streak](https://github-readme-streak-stats-olive.vercel.app/?user=wwwkr)
 
 
-![Trophy](https://github-profile-trophy.deno.dev/?username=wwwkr&rank=SSS,SS,S,AAA,AA,A,B,C)
+![Trophy](https://github-profile-trophy-one-jet.vercel.app/?username=wwwkr&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wwwkr&theme=react-dark)
