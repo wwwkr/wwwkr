@@ -16,4 +16,4 @@
 
 ![Trophy](https://github-profile-trophy-one-jet.vercel.app/?username=wwwkr&rank=SSS,SS,S,AAA,AA,A,B,C)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wwwkr&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph-lime-two.vercel.app/graph?username=wwwkr&theme=react-dark)
